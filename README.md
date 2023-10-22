@@ -11,15 +11,9 @@ I have accumulated over 12 years of professional experience in research, both wi
 
 ### Skills
 
-
 <p align="left">
   <a href="https://www.kobotoolbox.org/" target="_blank" rel="noreferrer"><img src="https://www.kobotoolbox.org/assets/images/common/kobotoolbox_logo_default_for-light-bg.svg" width="180" height="36" alt="KoboToolbox"/></a><a href="https://www.surveycto.com" target="_blank" rel="noreferrer"><img src="https://www.surveycto.com/wp-content/uploads/2018/04/SurveyCTO-Logo-CMYK.png.webp" width="112" height="36" alt="SurveyCTO"/></a><a href="https://www.stata.com" target="_blank" rel="noreferrer"><img src="https://www.stata.com/includes/images/stata-logo-blue.svg" width="156" height="36" alt="STATA"/></a>
-  <a href="www.ibm.com/spss" target="_blank" rel="noreferrer"><img src="https://vectorseek.com/wp-content/uploads/2023/08/Spss-Logo-Vector.svg-.png" width="106" height="36" alt="SPSS" /></a><a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://thinklytics.com/wp-content/uploads/2017/07/tableau-logo-tableau-software.jpg" width="95" height="36" alt="Tableau" /></a>
-
- 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+  <a href="www.ibm.com/spss" target="_blank" rel="noreferrer"><img src="https://vectorseek.com/wp-content/uploads/2023/08/Spss-Logo-Vector.svg-.png" width="106" height="36" alt="SPSS" /></a><a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://thinklytics.com/wp-content/uploads/2017/07/tableau-logo-tableau-software.jpg" width="95" height="36" alt="Tableau" /></a>  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 </p>
 
 
