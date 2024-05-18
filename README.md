@@ -4,7 +4,6 @@ Hi 👋 My name is Md. Bulbul Islam
 I have accumulated over 12 years of professional experience in research, both within National and International Organizations. My expertise encompasses various aspects of research project management, including the development of questionnaires, proficient data handling, and effective oversight of research initiatives. I am skilled in designing questionnaires and data collection tools, specializing in KoboToolbox/KoboCollect and SurveyCTO. Additionally, I am proficient in data management and analysis, utilizing tools such as Stata, SPSS, Power BI, and Python. Furthermore, I have valuable experience in managing research projects in Bangladesh.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [My Profile](http://bulbulrds.wordpress.com)
 * ✉️  You can contact me at [bulbul.rds@gmail.com](mailto:bulbul.rds@gmail.com)
 * 🧠  I'm learning Masters in Applied Statistics and Data Science at Jahangirnagar University
 * 🤝  I'm open to collaborating on Research and Data Related project.
